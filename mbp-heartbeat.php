@@ -60,6 +60,8 @@ $param = array(
   'merge_vars' => array(
     'FNAME' => 'Heartbeat-First-Name',
   ),
+  'activity_timestamp' => time(),
+  'application_id' => 0
 );
 
 try {
